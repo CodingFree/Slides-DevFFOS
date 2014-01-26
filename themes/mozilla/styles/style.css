@@ -13,6 +13,38 @@ BODY {
 	counter-reset:paging;
 	}
 
+.legend-header {
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font:bold 20px/1 'OpenSansRegular', sans-serif;
+		color:#fff;
+		text-shadow:0 -1px 1px #1F3F60;
+		text-decoration:none;
+}
+
+.legend-header img{
+	width:100px;
+	vertical-align: middle;
+}
+
+.legend-footer{
+  background-color: transparent;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font:bold 20px/1 'OpenSansRegular', sans-serif;
+		color:#000;
+		text-shadow:0 -1px 1px #1F3F60;
+		text-decoration:none;
+}
+
+.legend-footer img{
+	width:100px;
+	vertical-align: middle;
+}
+
 body:after {
 	position:absolute;
 	top:0;
@@ -22,6 +54,7 @@ body:after {
 	background:url(../images/tab-2.png);
 	content:'';
 	}
+
 
 
 /* Slide
