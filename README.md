@@ -1,8 +1,10 @@
-== Transparencias ==
+Transparencias
+==
 
 Transparencias sobre desarrollo de aplicaciones en Firefox OS.
 
-== Recursos ==
+Recursos
+==
 
 http://www.mozilla.org/en-US/firefox/os/ - el sitio oficial para usuarios finales de Firefox OS.
 https://marketplace.firefox.com/ - donde conseguir aplicaciones de Firefox OS.
